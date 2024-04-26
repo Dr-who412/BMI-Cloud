@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748690758395",
+    "project_id": "bmi-8s",
+    "storage_bucket": "bmi-8s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748690758395:android:a6ce26de11b0b0b640ae5e",
+        "android_client_info": {
+          "package_name": "com.example.bmi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDcvPnIH-6R1Xq8hS85N-V0vj_lqaV5jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
