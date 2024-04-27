@@ -47,6 +47,8 @@ dependencies:
 
   fluttertoast: ^8.0.9
   hexcolor: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.10
 
 
 
